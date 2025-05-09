@@ -1,1 +1,1 @@
-This project is a Python-based desktop application for generating AI images from text prompts using Stable Diffusion via the Stability AI API. It provides a rich PyQt6 GUI that allows users to input prompts, customize generation parameters, view output images, and maintain a history of their creations.
+
